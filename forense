@@ -1,0 +1,11 @@
+# Programas utilies para destripar archivos
+
+PDF:
+peepdf:Muy util para saber que esconde los pdf, en especial si hay informacion en los mentadatos.
+OJO funciona sobre python2, hay que lanzar el archivo en la carpeta y luego trabajar tipo consola de comandos.
+https://eternal-todo.com/tools/peepdf-pdf-analysis-tool
+https://github.com/jesparza/peepdf
+
+EXCEL:
+Olevba
+Oletools
